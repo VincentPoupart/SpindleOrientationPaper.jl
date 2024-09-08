@@ -3,6 +3,7 @@
 This is the Julia package used in the paper 
 
 The spatiotemporal distribution of LIN-5/NuMA regulates spindle orientation and tissue organization in the C. elegans germ line
-Réda M Zellag; Vincent Poupart; Takefumi Negishi; Jean-Claude Labbé; Abigail Gerhold
+
+by Réda M Zellag; Vincent Poupart; Takefumi Negishi; Jean-Claude Labbé; Abigail Gerhold
 
 doi: 
