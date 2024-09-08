@@ -1,4 +1,4 @@
-# SpindleOrientationPaper
+# SpindleOrientationPaper.jl
 
 This is the Julia package used in the paper 
 
