@@ -8,6 +8,6 @@ by Réda M Zellag; Vincent Poupart; Takefumi Negishi; Jean-Claude Labbé; Abigai
 
 doi: 
 
-![](figures/GraphicalAbstract.tif)
+![](figures/GraphicalAbstract.png)
 
 This package can be used to calculate the mitotic spindle orientation to a surface or to cellular main axes in 3D. 
