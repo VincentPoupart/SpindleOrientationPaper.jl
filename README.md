@@ -7,3 +7,6 @@ The spatiotemporal distribution of LIN-5/NuMA regulates spindle orientation and 
 by Réda M Zellag; Vincent Poupart; Takefumi Negishi; Jean-Claude Labbé; Abigail Gerhold
 
 doi: 
+
+
+This package can be used to calculate the mitotic spindle orientation to a surface or to cellular main axes in 3D. 
