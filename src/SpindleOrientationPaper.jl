@@ -1,6 +1,6 @@
 module SpindleOrientationPaper
 
-# Write your package code here.
+
 using DataFrames
 using CSV
 using DataFramesMeta

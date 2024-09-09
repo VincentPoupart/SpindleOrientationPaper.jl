@@ -19,12 +19,16 @@ This package can be used to calculate the mitotic spindle orientation to a surfa
 # Generate spindle poles tracks from ImageJ FIJI (1.52v) plugin TrackMate protocol
 
 1.	Film L4 worms as described (Zellag, 2021) with a confocal SD microscope.
+
 2.	Track the spindle poles as described (Zellag, 2021) or with the ImageJ plugin TrackMate as followed: 
+
 2.1.	Open your registered tif file in FIJI imageJ
+
 2.2.	Launch TrackMate from the menu Plugins  › Tracking  › TrackMate  
 
 
 2.3.	The settings are usually correct, click “Next”
+
 2.4.	Select log detector and click “Next”
  
 2.5.	Select de channel corresponding to tubulin, set the estimated blob diameter to 2,5 µm and the threshold to 10. Make sure the “do subpixel localization” is checked.  
