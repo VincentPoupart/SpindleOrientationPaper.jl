@@ -32,32 +32,49 @@ This package can be used to calculate the mitotic spindle orientation to a surfa
 2.4.	Select log detector and click “Next”
  
 2.5.	Select de channel corresponding to tubulin, set the estimated blob diameter to 2,5 µm and the threshold to 10. Make sure the “do subpixel localization” is checked.  
+
 2.6.	Click Next
+
 2.7.	Let the detection process run.
+
 2.8.	Click Next
 
-2.9.	Set the initial filter to “auto” (note here that you could do it manually depending of the quality of the movie, in a manner to catch most of the spindle poles.) 
+2.9.	Set the initial filter to “auto” (note here that you could do it manually depending of the quality of the movie, in a manner to catch most of the spindle poles.) Click Next.
 
-
-
-Click Next.
 2.10.	Select “Hyperstack displayed” and click Next
+
 2.11.	Do not set additional filter and click Next
+
 2.12.	Select “Simple LAP tracker” and 
+
 2.13.	click Next
+
 2.14.	Set “Linking max distance” to 5.0 micros, “Gap-closing max distance” to 5.0 micron and “Gap-closing max frame gap” to 2 and click Next
+
 2.15.	Click Next again 
+
 2.16.	Do not set additional filters on tracks and click Next
+
 2.17.	Click on “TrackScheme” and expand the new window
+
 2.18.	Correct the tracks for each spindle poles and pair them 2 by 2 by naming each point of the track “cent_1a” and “cent_1b” for the first pair and “cent_2a” and “cent_2b” for the second, etc. Make sure the tracks and the pairing are correct by the help of the movie. Each time you click on a point of this TrackScheme window, the point is highlighted on the movie and vice-versa.
+
 2.19.	Delete all the irrelevant tracks and make sure there is no empty spot in the track (make sure it is complete)
+
 2.20.	Click  Next
+
 2.21.	Click  Next 
+
 2.22.	Select « Trim non-visible data » and  click Execute
+
 2.23.	Click  Save as movie_name.xml eg: 2020-07-16_UM776_L4_26C_24h-01.xml 
+
 2.24.	Select « Export all spots statistics » and 
+
 2.25.	 click Execute
+
 2.26.	Save all spots statistics as “movie_name.txt (eg: 2020-07-16_UM776_L4_26C_24h-01.txt)
+
 2.27.	You can now close ImageJ.
 
 
