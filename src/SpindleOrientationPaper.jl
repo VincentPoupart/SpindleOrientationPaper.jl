@@ -19,7 +19,7 @@ export
     SpindleOrientationCellShape,
     ClickStepsMitosis,
     ExtractDataVRML,
-    GeneratingFigures,
+    GeneratingFigures
 
 include("AddNormalVectors.jl")
 include("AddProjectAxisCellShape.jl")
