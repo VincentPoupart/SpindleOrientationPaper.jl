@@ -29,7 +29,7 @@ This package can be used to calculate the mitotic spindle orientation to a surfa
     -Cell_Volume
 Those statistics are exported as a folder for each movies containing a series of .csv files, one for each stats, containing all the results of the segmented cells in the movie.
 
-All the surfaces .wrl files, the track .txt files and the cell shape stats folders should be place in one single folder.
+All the surfaces .wrl files, the track .txt files and the cell shape stats folders should be placed in one single folder.
 
 # Generate spindle poles tracks from ImageJ FIJI (1.52v) TrackMate plugin protocol
 
