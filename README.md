@@ -63,7 +63,7 @@ to score the mitotic steps
 
     Mitosis_df = ClickStepsMitosis(Mitosis_df)
 
-To produce the figures
+to produce the figures
 
     GeneratingFigures(Mitosis_df, Interphase_df)
 
