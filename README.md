@@ -26,6 +26,7 @@ This package can be used to calculate the mitotic spindle orientation to a surfa
 
 2.2.	Launch TrackMate from the menu Plugins  › Tracking  › TrackMate  
 
+![](figures/Image1.png)
 
 2.3.	The settings are usually correct, click “Next”
 
