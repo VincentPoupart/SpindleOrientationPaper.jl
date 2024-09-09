@@ -6,7 +6,7 @@ The spatiotemporal distribution of LIN-5/NuMA regulates spindle orientation and 
 
 by Réda M Zellag; Vincent Poupart; Takefumi Negishi; Jean-Claude Labbé; Abigail Gerhold
 
-doi: 
+doi: https://doi.org/10.1101/2024.08.31.610619  
 
 ![](figures/GraphicalAbstract.png)
 
