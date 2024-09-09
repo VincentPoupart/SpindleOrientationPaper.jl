@@ -51,6 +51,24 @@ Those statistics are exported as a folder for each movies containing a series of
 
 All the surfaces .wrl files, the track .txt files and the cell shape stats folders should be placed in one single folder.
 
+# Using SpindleOrientationPaper.jl
+
+    using SpindleOrientationPaper
+
+to fetch data from the folder into Dataframes
+
+    Mitosis_df, Interphase_df = SpindleOrientationCellShape("Path/to/the/data/folder")
+
+to score the mitotic steps
+
+    Mitosis_df = ClickStepsMitosis(Mitosis_df)
+
+To produce the figures
+
+    GeneratingFigures(Mitosis_df, Interphase_df)
+
+
+
 # Generate spindle poles tracks from ImageJ FIJI (1.52v) TrackMate plugin protocol
 
 1.	Film L4 worms as described (Zellag, 2021) with a confocal SD microscope.

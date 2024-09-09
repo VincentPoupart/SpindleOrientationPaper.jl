@@ -18,7 +18,8 @@ using PlotlyJS
 export
     SpindleOrientationCellShape,
     ClickStepsMitosis,
-    ExtractDataVRML
+    ExtractDataVRML,
+    GeneratingFigures,
 
 include("AddNormalVectors.jl")
 include("AddProjectAxisCellShape.jl")
